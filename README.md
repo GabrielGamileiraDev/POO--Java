@@ -1,4 +1,4 @@
-<p align="center" border-radius="10px"><img src="https://www.vsit.in/vsit-admin/course_pic/java.png" width="400"></p>
+<p align="center"><img src="https://www.vsit.in/vsit-admin/course_pic/java.png" width="400" style=" border-radius:10px;"></p>
 
 ## 🧠 O que é Programação Orientada a Objetos (POO)?
 
