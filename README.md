@@ -27,4 +27,4 @@ Java foi a linguagem que escolhi para aprender e aplicar POO pelos seguintes mot
 
 ---
 
-Este repositório contém exemplos práticos, anotações e exercícios para fixar os conceitos de POO utilizando a linguagem Java.
+Este repositório contém exemplos práticos para fixar os conceitos de POO utilizando a linguagem Java.
