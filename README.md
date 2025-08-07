@@ -21,7 +21,7 @@ Java foi a linguagem que escolhi para aprender e aplicar POO pelos seguintes mot
 - ✅ **Forte comunidade e vasto material de apoio**, o que facilita a aprendizagem.
 
 ## 🔧 Ferramentas que utilizei:
-  ✅<p><a href="https://www.jetbrains.com/idea/download/?section=windows"><img src="https://blogs.powercode.id/wp-content/uploads/2023/02/intellij-IDEA.png" width="170"/></a></p>
+  ✅<p><a href="https://www.jetbrains.com/idea/download/?section=windows"><img height="50" src="https://blogs.powercode.id/wp-content/uploads/2023/02/intellij-IDEA.png" width="170"/></a></p>
 - ✅ **Instalei o JDK pelo IntelliJ IDEA**
 
 
