@@ -20,6 +20,10 @@ Java foi a linguagem que escolhi para aprender e aplicar POO pelos seguintes mot
 - ✅ **Altamente orientada a objetos**: praticamente tudo em Java é baseado em classes e objetos.
 - ✅ **Forte comunidade e vasto material de apoio**, o que facilita a aprendizagem.
 
+## 🔧 Ferramentas que utilizei:
+  ✅ <a href: https://www.jetbrains.com/idea/download/?section=windows>><img src="https://blogs.powercode.id/wp-content/uploads/2023/02/intellij-IDEA.png" width="10"/></a>
+- ✅ **Instalei o JDK pelo IntelliJ IDEA**
 ---
+
 
 Este repositório contém exemplos práticos, anotações e exercícios para fixar os conceitos de POO utilizando a linguagem Java.
