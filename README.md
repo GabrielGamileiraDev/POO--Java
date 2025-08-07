@@ -1,5 +1,4 @@
-<img src="https://www.vsit.in/vsit-admin/course_pic/java.png" width="400">
-# Programação Orientada a Objetos com Java☕
+<p align="center"><img src="https://www.vsit.in/vsit-admin/course_pic/java.png" width="400"></p>
 
 ## 🧠 O que é Programação Orientada a Objetos (POO)?
 
